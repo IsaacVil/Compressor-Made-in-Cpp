@@ -1,1 +1,2 @@
-"# Compressor-in-C-" 
+# Compressor Made in Cpp
+Using Data Structures 
