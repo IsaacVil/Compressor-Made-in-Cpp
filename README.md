@@ -1,2 +1,2 @@
-# Compressor Made in Cpp
+# Compressor and Decompressor Made in Cpp
 Using Data Structures 
