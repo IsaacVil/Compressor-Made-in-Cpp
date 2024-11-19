@@ -25,7 +25,7 @@ Any questions or inquiries about the inner workings of the project can be direct
 1) Clone this repository: git clone https://github.com/IsaacVil/Compressor-Made-in-Cpp/.git 
 2) Open the project in your preferred **C++ IDE or compiler**.  
 3) Compile the project following the instructions in the source files or provided documentation.  
-4) Run the executable to start the game.
+4) Run the executable to start the program.
    
 ## Learning Outcomes
 Through this project, we:  
